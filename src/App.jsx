@@ -54,7 +54,7 @@ export default function App() {
   });
 
   return (
-    <div className="bg-green-900 min-h-screen font-sans text-gray-100">
+    <div className="bg-yellow-900 min-h-screen font-sans text-gray-100">
       <div className="container mx-auto p-4 md:p-8">
         <header className="mb-8">
           <h1 className="text-5xl font-extrabold text-center text-blue-500">
