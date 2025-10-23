@@ -54,10 +54,10 @@ export default function App() {
   });
 
   return (
-    <div className="bg-yellow-900 min-h-screen font-sans text-gray-100">
+    <div className="bg-gray-800 min-h-screen font-sans text-gray-100">
       <div className="container mx-auto p-4 md:p-8">
         <header className="mb-8">
-          <h1 className="text-5xl font-extrabold text-center text-blue-500">
+          <h1 className="text-5xl font-extrabold text-center text-green-500">
             Mini Kitaplık
           </h1>
         </header>
